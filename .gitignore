@@ -1,0 +1,11 @@
+# バイナリ (特定のファイル名や拡張子を指定)
+/server
+/cmd/server/server
+*.exe
+
+# 以下はそのまま
+*.db
+*.db-journal
+CLAUDE.md
+AGENTS.md
+.cursorrules
